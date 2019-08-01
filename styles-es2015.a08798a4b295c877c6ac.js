@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{2:function(n,o,c){c("OmL/"),c("q4sD"),n.exports=c("n2Zn")},"OmL/":function(n,o,c){},n2Zn:function(n,o,c){n.exports=c.p+"TungstenRounded-Book.591c92bddcd6279d9263.woff"},q4sD:function(n,o,c){}},[[2,0]]]);
